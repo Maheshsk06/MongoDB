@@ -1,2 +1,3 @@
 # MongoDB
-Done some MongoDB application based on the given questions.
+Created a basic telephone directory in a dataframe
+conected to MongoDB cloud and created an database.
