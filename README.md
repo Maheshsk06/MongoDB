@@ -1,3 +1,3 @@
 # MongoDB
-Created a basic telephone directory in a dataframe
-conected to MongoDB cloud and created an database.
+Created a basic telephone directory in a dataframe.
+ And conected to MongoDB cloud and created an database.
